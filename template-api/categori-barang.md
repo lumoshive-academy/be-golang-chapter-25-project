@@ -23,6 +23,15 @@
 }
 ```
 
+- Response Gagal (Status Code: 404)
+```json
+{
+    "success": false,
+    "status_code": 404,
+    "message": "Data not found"
+}
+```
+
 - Response Gagal (Status Code: 500)
 ```json
 {
