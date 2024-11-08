@@ -4,6 +4,10 @@ tambahkan paramter pada url untuk fitur search dan filter
 ```json
 {
     "success": true,
+    "page": 1,
+    "limit": 2,
+    "total_items": 20,
+    "total_pages": 2,
     "data": [
         {
             "id": 1,
